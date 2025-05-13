@@ -1,4 +1,4 @@
-# SIPASIS (Sistem Pendataan Pelanggaran Siswa)
+# Sistem Pendataan Pelanggaran Siswa
 
 SIPASIS adalah sistem informasi yang dirancang untuk membantu sekolah dalam mencatat, memantau, dan mengelola data pelanggaran siswa secara efektif. Sistem ini bertujuan untuk mendukung transparansi dan efisiensi dalam manajemen disiplin siswa.
 
